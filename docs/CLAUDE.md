@@ -1,0 +1,1 @@
+High-level coding guide for this repository. Reference the original in my-windows-scripts for deeper context.
